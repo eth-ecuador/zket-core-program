@@ -26,14 +26,12 @@ The revolution of privacy and secure computation arrives in Quito! Apply and bec
 - **Technologies:** Introduction to Circom.
 
 ## Week 3: More Crypto, SNARKs, and STARKs
-- **Practical:** Circom Crash Course (ZKU).
 - **Study:** KZG Polynomial Commitments, Trusted Setup.
 - **STARKs and SNARKs:** Definition, characteristics, and uses.
 - **Practical Application:** Algorithm implementation and basic ZKP demonstrations.
 - **Technologies:** Advanced Circom & Introduction to Cairo
   
 ### Week 4: PLONK
-- **Required Exercise:** Publish a blog post on PLONK and present it with your group.
 - **Study:**
     - **PLONK Introduction:** Vitalik's blog post, Plonkish circuit arithmetization.
     - **Implementation:** Explore Plonkathon reference implementation.
