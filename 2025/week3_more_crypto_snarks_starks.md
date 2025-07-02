@@ -81,6 +81,12 @@ STARKs are a type of zero-knowledge proof system that is post-quantum secure. It
 2. https://vitalik.eth.limo/general/2017/11/22/starks_part_2.html
 3. **Optional article**: https://vitalik.eth.limo/general/2018/07/21/starks_part_3.html
 
+####  Cairo Crash Courses 
+Cairo is a language for creating STARK-provable programs for general computation.
+- Desarrollando con Cairo - Pioneros II (Spanish) [Link](https://www.youtube.com/watch?v=aHq4Dy34xVY&list=PLW8Uh7eP7jbSwtj4NZGFLjGglsi2nCysF&index=2)
+- Cairo Secuirty [Link](https://foundation.extropy.io/articles/cairo-security-unlocked.html)
+- Starklings: A web-based interactive tutorial to learn Cairo and Starknet [Link](https://starklings.app/)
+- The Cairo Book [Link](https://book.cairo-lang.org/)
 
 ####  Optional Resources (For Deepening Your Understanding)
 
@@ -96,3 +102,4 @@ STARKs are a type of zero-knowledge proof system that is post-quantum secure. It
 1. What is a proof system?
 2. What is input, witness, circuit, and proof? 
 3. How does program convert to proof?
+
