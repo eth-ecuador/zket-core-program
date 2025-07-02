@@ -31,7 +31,7 @@ PLONK and Custom Gates with Adrian Hamelink: [https://zkhack.dev/whiteboard/modu
 - [ZKCamp's Open Source Noir course](https://github.com/ZKCamp/aztec-noir-course)
   - 6 lectures to give participants the knowledge and skills necessary to build decentralized applications based on ZKPs using Noir
   - Lessons include ZKP Fundamentals; An Introduction to Aztec Ecosystem; Noir Basics; Building a Noir Application; and Advanced Noir
-- [Video Series] [BattleZips-Noir](https://www.youtube.com/playlist?list=PLWACGbvIsEgnR2aUCr9i-PpmTVhF5Zuik) ([Source Code](https://github.com/BattleZips/BattleZips-Noir))
+- [BattleZips-Noir](https://www.youtube.com/playlist?list=PLWACGbvIsEgnR2aUCr9i-PpmTVhF5Zuik) ([Source Code](https://github.com/BattleZips/BattleZips-Noir))
   - Walkthrough of building an on-chain Battleships game using zero-knowledge
   - Follow along and build your own game using Noir
 
