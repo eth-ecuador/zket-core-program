@@ -15,6 +15,10 @@ Let's examine PLONK from a broader perspective compared to the detailed analysis
 Read Plonkathon Referenced Version. If you want to challenge yourself, You can implement it.
 https://github.com/0xPARC/plonkathon/tree/reference
 
+For a hands-on, step-by-step understanding of PLONK's mechanics, consider the "PLONK by Hand" series:
+- PLONK by Hand, Part 1: [https://research.metastate.dev/plonk-by-hand-part-1/](https://research.metastate.dev/plonk-by-hand-part-1/)
+- PLONK by Hand, Part 2 - The Proof: [https://research.metastate.dev/plonk-by-hand-part-2-the-proof/](https://research.metastate.dev/plonk-by-hand-part-2-the-proof/)
+- PLONK by Hand, Part 3 - Verification: [https://research.metastate.dev/plonk-by-hand-part-3-verification/](https://research.metastate.dev/plonk-by-hand-part-3-verification/)
 
 ### Reference Material (optional)
 
