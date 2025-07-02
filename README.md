@@ -23,20 +23,25 @@ The revolution of privacy and secure computation arrives in Quito! Apply and bec
 - **Mathematics for Cryptography:** Number theory (Divisibility, prime numbers, and arithmetic functions), Modular arithmetic (Basic concepts, multiplicative inverses, and exponents), Field Extensions, Groups, Elliptic Curves.
 - **Cryptography:** Classical and modern (From symmetric to asymmetric ciphers: RSA, Diffie-Hellman).
 - **Introduction to Zero-Knowledge Proofs (ZKPs):** What they are and why they are necessary (Scalability and Privacy). Types of ZK-Proofs: zk-SNARKs vs zk-STARKs.
-- **Technologies:** Introduction to Noir and Circom.
+- **Technologies:** Introduction to Circom.
 
-### Week 3: PLONK and Recursive Proofs
-- **SNARKs and Recursive Proofs:** KZG Commitments (Kate-Zaverucha-Goldberg), Proof systems: Plonk and Ultraplonk, Constraint reduction.
-- **Practical Application:** Sessions dedicated to the application of mathematical and cryptographic concepts, including the implementation of algorithms and basic ZKP demonstrations.
-
-### Week 4: Starks, Cairo, and Advanced Applications
-- **ZKET Workshop:** Specialized workshop by the ZK Education Team.
-- **Technologies:** Introduction to Cairo.
-- **STARKs:** Fundamental concepts: STARK lifecycle (declaration, LDE, commitment), Polynomial constraints, FRI commitment protocol (Fast Reed-Solomon Interactive Oracle Proofs), Proof generation and verification.
-- **Practical Application:** Development of Cairo contracts and explorations of recursive proofs and use cases such as Ecuadorian digital identity systems.
+## Week 3: More Crypto, SNARKs, and STARKs
+- **Practical:** Circom Crash Course (ZKU).
+- **Study:** KZG Polynomial Commitments, Trusted Setup.
+- **STARKs and SNARKs:** Definition, characteristics, and uses.
+- **Practical Application:** Algorithm implementation and basic ZKP demonstrations.
+- **Technologies:** Advanced Circom & Introduction to Cairo
+  
+### Week 4: PLONK
+- **Required Exercise:** Publish a blog post on PLONK and present it with your group.
+- **Study:**
+    - **PLONK Introduction:** Vitalik's blog post, Plonkish circuit arithmetization.
+    - **Implementation:** Explore Plonkathon reference implementation.
+    - **Core Concepts:** Brief understanding of underlying mathematical tools (e.g., polynomial commitments)
+- **Technologies:** Introduction to Noir
 
 ### Week 5: Open Source Contributions and Starknet Development
-- **Workshops:** Creation of smart contracts with Cairo, code examples of a scalable dApp in the Starknet ecosystem.
+- **Workshops:** Complementary practical workshops.
 - **Contribution Week 1:** First week dedicated to open source contributions in virtual mode.
 
 ### Week 6: Final Contributions, Demo, and ZK Future
