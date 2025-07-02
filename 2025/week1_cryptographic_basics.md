@@ -1,4 +1,4 @@
-# Week 1 - Cryptographic Basics
+# Week 2 - Cryptographic Basics
 
 ## Practical
 
