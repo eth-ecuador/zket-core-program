@@ -22,6 +22,19 @@ For a hands-on, step-by-step understanding of PLONK's mechanics, consider the "P
 
 PLONK and Custom Gates with Adrian Hamelink: [https://zkhack.dev/whiteboard/module-five/]
 
+## Noir Circuits
+
+- **Noir Programming And ZK Circuits:** Step into the world of Noir, a domain-specific programming language for writing circuits, and learn to build zero-knowledge (ZK) apps. The Noir Programming and ZK Circuits course will teach you how to write circuits, how to build a full ZK protocol from scratch (using Noir, Barretenberg, and Solidity), and how to build the backend of a full-stack, privacy-preserving ZK application.-[Noir Programming And ZK Circuits](https://updraft.cyfrin.io/courses/noir-programming-and-zk-circuits)
+  
+- **NoirHack:** In this kickoff session of NoirHack, a 4-week virtual builder sprint, we dive into how to learn, build, and ship the next wave of private apps using Noir- [Playlist NoirHack](https://www.youtube.com/playlist?list=PLabpoAlaCBY0tlBYmY3Wa8PGEIxIdalWa)
+
+- [ZKCamp's Open Source Noir course](https://github.com/ZKCamp/aztec-noir-course)
+  - 6 lectures to give participants the knowledge and skills necessary to build decentralized applications based on ZKPs using Noir
+  - Lessons include ZKP Fundamentals; An Introduction to Aztec Ecosystem; Noir Basics; Building a Noir Application; and Advanced Noir
+- [Video Series] [BattleZips-Noir](https://www.youtube.com/playlist?list=PLWACGbvIsEgnR2aUCr9i-PpmTVhF5Zuik) ([Source Code](https://github.com/BattleZips/BattleZips-Noir))
+  - Walkthrough of building an on-chain Battleships game using zero-knowledge
+  - Follow along and build your own game using Noir
+
 ### Reference Material (optional)
 
 In order to understand PLONKathon, you might need to understand the following concepts, but only read it when you really feel like it.
