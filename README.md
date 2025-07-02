@@ -20,7 +20,6 @@ The revolution of privacy and secure computation arrives in Quito! Apply and bec
 - **Open Source Culture:** Introduction and reinforcement of the importance and practices of open-source code.
 
 ### Week 2: Classical and Modern Cryptography & Introduction to ZKPs
-- **Mathematics for Cryptography:** Number theory (Divisibility, prime numbers, and arithmetic functions), Modular arithmetic (Basic concepts, multiplicative inverses, and exponents), Field Extensions, Groups, Elliptic Curves.
 - **Cryptography:** Classical and modern (From symmetric to asymmetric ciphers: RSA, Diffie-Hellman).
 - **Introduction to Zero-Knowledge Proofs (ZKPs):** What they are and why they are necessary (Scalability and Privacy). Types of ZK-Proofs: zk-SNARKs vs zk-STARKs.
 - **Technologies:** Introduction to Circom.
