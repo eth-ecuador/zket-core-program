@@ -1,24 +1,58 @@
-# Core Program
+# 🇪🇨 ZKET Core Program – Ecuador 2025 🔒🚀
 
-> A Foundation for Tomorrow's Open-Source ProgCrypto Contributors
+**An initiative by the ZK Education Team of the Ethereum Foundation**
 
-Welcome to the Core Program curriculum repository, hosted by the Privacy and Scaling Explorations (PSE) team. This program covers the basics of programmable cryptography (ProgCrypto), including Zero-Knowledge Proofs (ZKPs), Fully Homomorphic Encryption (FHE), and Multiparty Computation (MPC). We aim to equip engineers and researchers to contribute to open-source cryptography projects.
+The revolution of privacy and secure computation arrives in Quito! Apply and become part of the next generation of experts in Programmable Cryptography (ProgCrypto).
 
-Designed for programmers with limited cryptography knowledge, this self-learning curriculum helps them learn the fundamentals and prepares them to contribute to the open-source community.
+---
 
-## Program Structure
+## Program Overview
 
-### 2023 Curriculum
+- **Focus:** Programmable Cryptography (ProgCrypto), with a special emphasis on Zero-Knowledge Proofs (ZKPs), privacy, and secure computation.
+- **Objective:** To train and empower the next generation of ZK experts in Ecuador.
+- **Duration:** **6 intensive weeks.**
+- **Cost:** **Free**, thanks to the ZK Education Team of the Ethereum Foundation.
 
-All materials and documents related to the 2023 curriculum are in the `2023` folder. These provide historical context and foundational content.
+## Learning Content (6-Week Weekly Syllabus)
 
-### 2024 Curriculum
+### Week 1: Fundamentals and Open Source Culture
+- Prerequisites: Necessary prior knowledge for the course.
+- Open Source Culture: Introduction and reinforcement of the importance and practices of open-source code.
 
-All materials and documents related to the 2024 curriculum are in the `2024` folder. These provide historical context and foundational content.
+### Week 2: Classical and Modern Cryptography & Introduction to ZKPs
+- **Mathematics for Cryptography:** Number theory (Divisibility, prime numbers, and arithmetic functions), Modular arithmetic (Basic concepts, multiplicative inverses, and exponents), Field Extensions, Groups, Elliptic Curves.
+- **Cryptography:** Classical and modern (From symmetric to asymmetric ciphers: RSA, Diffie-Hellman).
+- **Introduction to Zero-Knowledge Proofs (ZKPs):** What they are and why they are necessary (Scalability and Privacy). Types of ZK-Proofs: zk-SNARKs vs zk-STARKs.
+- **Technologies:** Introduction to Noir and Circom.
 
-### 2025 Curriculum
+### Week 3: PLONK and Recursive Proofs
+- **SNARKs and Recursive Proofs:** KZG Commitments (Kate-Zaverucha-Goldberg), Proof systems: Plonk and Ultraplonk, Constraint reduction.
+- **Practical Application:** Sessions dedicated to the application of mathematical and cryptographic concepts, including the implementation of algorithms and basic ZKP demonstrations.
 
-The 2025 curriculum is currently being developed and can be found in the `2025` folder. We welcome contributions to this section.
+### Week 4: Starknet, Cairo, and Advanced Applications
+- **ZKET Workshop:** Specialized workshop by the ZK Education Team.
+- **Technologies:** Introduction to Cairo.
+- **STARKs:** Fundamental concepts: STARK lifecycle (declaration, LDE, commitment), Polynomial constraints, FRI commitment protocol (Fast Reed-Solomon Interactive Oracle Proofs), Proof generation and verification.
+- **Practical Application:** Development of Noir contracts and explorations of recursive proofs and use cases such as Ecuadorian digital identity systems.
+
+### Week 5: Open Source Contributions and Starknet Development
+- **Starknet Development:** Creation of smart contracts with Cairo, code examples of a scalable dApp in the Starknet ecosystem.
+- **Contribution Week 1:** First week dedicated to open source contributions in virtual mode.
+- **Workshops:** Complementary practical workshops.
+
+### Week 6: Final Contributions, Demo, and ZK Future
+- **Contribution Week 2:** Second week of open source contributions in virtual mode.
+- **Workshops:** Complementary practical workshops.
+- **Demo Day:** Presentation of practical application results and contributions.
+- **The Frontier:** Discussion on advancements and future trends in Zero-Knowledge.
+
+## Ideal Candidate Profile
+
+- **Strong foundation** in programming or mathematics.
+- **Passion** for cryptography, mathematics, security, or blockchain.
+- **English proficiency** to understand technical content (Most content in this language).
+- **Students or professionals** in Computer Science, Engineering, Mathematics, or related fields (from 4th semester onwards or graduates/egress).
+
 
 ## Contribution
 
