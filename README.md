@@ -20,9 +20,9 @@ The revolution of privacy and secure computation arrives in Quito! Apply and bec
 - Open Source Culture: Introduction and reinforcement of the importance and practices of open-source code.
 
 ### Week 2: Classical and Modern Cryptography & Introduction to ZKPs
-- **Mathematics for Cryptography:** Number theory (Divisibility, prime numbers, and arithmetic functions), Modular arithmetic (Basic concepts, multiplicative inverses, and exponents), Field Extensions, Groups, Elliptic Curves.
-- **Cryptography:** Classical and modern (From symmetric to asymmetric ciphers: RSA, Diffie-Hellman).
-- **Introduction to Zero-Knowledge Proofs (ZKPs):** What they are and why they are necessary (Scalability and Privacy). Types of ZK-Proofs: zk-SNARKs vs zk-STARKs.
+- **Mathematics for Cryptography
+- **Cryptography*
+- **Introduction to Zero-Knowledge Proofs (ZKPs)**
 - **Technologies:** Introduction to Noir and Circom.
 
 ### Week 3: PLONK and Recursive Proofs
@@ -38,7 +38,7 @@ The revolution of privacy and secure computation arrives in Quito! Apply and bec
 ### Week 5: Open Source Contributions and Starknet Development
 - **Starknet Development:** Creation of smart contracts with Cairo, code examples of a scalable dApp in the Starknet ecosystem.
 - **Contribution Week 1:** First week dedicated to open source contributions in virtual mode.
-- **Workshops:** Complementary practical workshops.
+- **Workshops:** Complementary practical workshops.KZG Commitments (Kate-Zaverucha-Goldberg),
 
 ### Week 6: Final Contributions, Demo, and ZK Future
 - **Contribution Week 2:** Second week of open source contributions in virtual mode.
