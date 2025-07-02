@@ -20,6 +20,8 @@ For a hands-on, step-by-step understanding of PLONK's mechanics, consider the "P
 - PLONK by Hand, Part 2 - The Proof: [https://research.metastate.dev/plonk-by-hand-part-2-the-proof/](https://research.metastate.dev/plonk-by-hand-part-2-the-proof/)
 - PLONK by Hand, Part 3 - Verification: [https://research.metastate.dev/plonk-by-hand-part-3-verification/](https://research.metastate.dev/plonk-by-hand-part-3-verification/)
 
+PLONK and Custom Gates with Adrian Hamelink: [https://zkhack.dev/whiteboard/module-five/]
+
 ### Reference Material (optional)
 
 In order to understand PLONKathon, you might need to understand the following concepts, but only read it when you really feel like it.
