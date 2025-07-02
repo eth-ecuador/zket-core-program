@@ -33,12 +33,11 @@ The revolution of privacy and secure computation arrives in Quito! Apply and bec
 - **ZKET Workshop:** Specialized workshop by the ZK Education Team.
 - **Technologies:** Introduction to Cairo.
 - **STARKs:** Fundamental concepts: STARK lifecycle (declaration, LDE, commitment), Polynomial constraints, FRI commitment protocol (Fast Reed-Solomon Interactive Oracle Proofs), Proof generation and verification.
-- **Practical Application:** Development of Noir contracts and explorations of recursive proofs and use cases such as Ecuadorian digital identity systems.
+- **Practical Application:** Development of Cairo contracts and explorations of recursive proofs and use cases such as Ecuadorian digital identity systems.
 
 ### Week 5: Open Source Contributions and Starknet Development
-- **Starknet Development:** Creation of smart contracts with Cairo, code examples of a scalable dApp in the Starknet ecosystem.
+- **Workshops:** Creation of smart contracts with Cairo, code examples of a scalable dApp in the Starknet ecosystem.
 - **Contribution Week 1:** First week dedicated to open source contributions in virtual mode.
-- **Workshops:** Complementary practical workshops.KZG Commitments (Kate-Zaverucha-Goldberg),
 
 ### Week 6: Final Contributions, Demo, and ZK Future
 - **Contribution Week 2:** Second week of open source contributions in virtual mode.
