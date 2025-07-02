@@ -77,7 +77,7 @@ When studying a topic for the first time, only read the required materials. Skip
 ### A Primer for Zero Knowledge Proofs
 
 Before we delve into the core content of the module, consider acquainting yourself with some high-level concepts of Zero-Knowledge Proofs. Skim the following introductory articles to build a strong foundational understanding:
-
+- [Fundamentals of Zero-Knowledge Proofs (ZKPs) by Cyfrin Updaft](https://updraft.cyfrin.io/courses/fundamentals-of-zero-knowledge-proofs)
 - [Zero-knowledge proofs | ethereum.org](https://ethereum.org/en/zero-knowledge-proofs/)
 - [A Primer on Zero-Knowledge Proofs 🔏](https://medium.com/hackernoon/a-primer-on-zero-knowledge-proofs-892e6e277142)
 - [Zero Knowledge Proofs: An illustrated primer [Part 1]](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
