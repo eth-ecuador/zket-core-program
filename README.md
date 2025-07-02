@@ -16,20 +16,20 @@ The revolution of privacy and secure computation arrives in Quito! Apply and bec
 ## Learning Content (6-Week Weekly Syllabus)
 
 ### Week 1: Fundamentals and Open Source Culture
-- Prerequisites: Necessary prior knowledge for the course.
-- Open Source Culture: Introduction and reinforcement of the importance and practices of open-source code.
+- **Prerequisites:** Necessary prior knowledge for the course.
+- **Open Source Culture:** Introduction and reinforcement of the importance and practices of open-source code.
 
 ### Week 2: Classical and Modern Cryptography & Introduction to ZKPs
-- **Mathematics for Cryptography
-- **Cryptography*
-- **Introduction to Zero-Knowledge Proofs (ZKPs)**
+- **Mathematics for Cryptography:** Number theory (Divisibility, prime numbers, and arithmetic functions), Modular arithmetic (Basic concepts, multiplicative inverses, and exponents), Field Extensions, Groups, Elliptic Curves.
+- **Cryptography:** Classical and modern (From symmetric to asymmetric ciphers: RSA, Diffie-Hellman).
+- **Introduction to Zero-Knowledge Proofs (ZKPs):** What they are and why they are necessary (Scalability and Privacy). Types of ZK-Proofs: zk-SNARKs vs zk-STARKs.
 - **Technologies:** Introduction to Noir and Circom.
 
 ### Week 3: PLONK and Recursive Proofs
 - **SNARKs and Recursive Proofs:** KZG Commitments (Kate-Zaverucha-Goldberg), Proof systems: Plonk and Ultraplonk, Constraint reduction.
 - **Practical Application:** Sessions dedicated to the application of mathematical and cryptographic concepts, including the implementation of algorithms and basic ZKP demonstrations.
 
-### Week 4: Starknet, Cairo, and Advanced Applications
+### Week 4: Starks, Cairo, and Advanced Applications
 - **ZKET Workshop:** Specialized workshop by the ZK Education Team.
 - **Technologies:** Introduction to Cairo.
 - **STARKs:** Fundamental concepts: STARK lifecycle (declaration, LDE, commitment), Polynomial constraints, FRI commitment protocol (Fast Reed-Solomon Interactive Oracle Proofs), Proof generation and verification.
