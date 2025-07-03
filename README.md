@@ -37,7 +37,7 @@ The revolution of privacy and secure computation arrives in Quito! Apply and bec
     - **Core Concepts:** Brief understanding of underlying mathematical tools (e.g., polynomial commitments)
 - **Technologies:** Introduction to Noir
 
-### Week 5: Open Source Contributions and Starknet Development
+### Week 5: ZK-ET Workshop
 - **Workshops:** Complementary practical workshops.
 - **Contribution Week 1:** First week dedicated to open source contributions in virtual mode.
 
