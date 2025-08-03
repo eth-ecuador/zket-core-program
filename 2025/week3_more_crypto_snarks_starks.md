@@ -74,6 +74,11 @@ There're really a lot of combinations like below taxonomy shows, but you don't n
 Groth16 is one of the famous zkSNARKs. Just remember that its biggest advantage of it is its proof size is small. That's why it's widely used in many blockchain projects. We won't learn the detail here, but you can read this article to understand how it works:
 [Groth16](https://www.zeroknowledgeblog.com/index.php/groth16)
 
+Here are a couple articles to understand how Groth16 works:
+
+- [Groth16 by Remco Bloemen](https://xn--2-umb.com/22/groth16/) - A very light article that covers the full life cycle of the Groth16 proving system.
+- [Groth16 by Maurizio Binello](http://www.zeroknowledgeblog.com/index.php/groth16) - A continuation of the blog series above that you should be well acquainted with.
+
 ### STARKs and FRI
 
 STARKs are a type of zero-knowledge proof system that is post-quantum secure. It usually involves larger proof size and faster proof size. There are two articles written by Vitalik that explain STARKs in detail. You can read them here:
