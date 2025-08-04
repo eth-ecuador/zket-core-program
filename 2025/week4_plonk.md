@@ -12,8 +12,6 @@ Some may choose to use **Halo2** instead of Circom. That's great! Halo2 is a pow
 
 > ⚠️ Halo2 requires strong **Rust** skills and comfort with reading documentation on your own.
 
-All Circom challenges can be adapted to Halo2 — but you'll need to figure out how.
-
 #### Recommended Resources
 
 - [Intro to Halo2 – Consensys](https://consensys.io/diligence/blog/2023/07/endeavors-into-the-zero-knowledge-halo2-proving-system/)
