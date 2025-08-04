@@ -1,14 +1,47 @@
 # Week 3 - More Crypto, SNARKs, and STARKs
 
 ## Practical
-
-### Circom Crash Course (build from command line; ZKU course)
+### Circom
+#### Circom Crash Course (build from command line; ZKU course)
 
 There are [excellent resources available like ZKU course](https://zku.gnomio.com/) to learn Circom. [The week 2 of ZKU course](https://zku.gnomio.com/mod/assign/view.php?id=119) introduces the merkle tree and token mixer. Finish week2 part1 - Hashes and Merkle Tree and part2 - Tornado Cash. You may find the curated material useful to understand the concepts better. Semaphore is optional but recommended.
 
-### Reference Material (optional)
+#### Circom Course – 0xPARC
+
+Learn how to build zk-SNARK circuits using Circom.
+
+👉 [Start the course](https://learn.0xparc.org/circom/)
+
+#### Reference Material (optional)
 
 1. https://circom.erhant.me/
+
+### Halo2
+
+#### Note: Using Halo2 Instead of Circom
+
+Some may choose to use **Halo2** instead of Circom. That's great! Halo2 is a powerful and growing zk circuit ecosystem.
+
+> ⚠️ Halo2 requires strong **Rust** skills and comfort with reading documentation on your own.
+
+All Circom challenges can be adapted to Halo2 — but you'll need to figure out how.
+
+#### Recommended Resources
+
+- [Intro to Halo2 – Consensys](https://consensys.io/diligence/blog/2023/07/endeavors-into-the-zero-knowledge-halo2-proving-system/)
+- [Getting Started with Halo2 – Axiom](https://docs.axiom.xyz/zero-knowledge-proofs/getting-started-with-halo2)
+- [Halo2 Cheatsheet – Axiom](https://hackmd.io/@axiom/HyoXzD7Zh)
+- [0xPARC Halo2 Lectures](https://learn.0xparc.org/materials/halo2/learning-group-1/introduction)
+- [halo2.club (encyclopedia)](https://halo2.club/)
+- [Halo2 Security Resources](https://halo2.zksecurity.xyz/)
+- [0xPARC Halo2 Course](https://learn.0xparc.org/halo2/)
+
+#### Reference Material
+
+- [The Halo2 Book](https://zcash.github.io/halo2/)
+- [Simple Example (Halo2 Book)](https://zcash.github.io/halo2/user/simple-example.html)
+- [PLONKish & Halo2 Slides](https://docs.google.com/presentation/d/1UpMo2Ze5iwzpwICPoKkeT04-xGFRp7ZzVPhgnidr-vs/edit#slide=id.p)
+****
 
 ## Study
 
