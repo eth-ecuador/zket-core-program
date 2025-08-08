@@ -466,6 +466,7 @@ For example, there exists an **Elliptic Curve Discrete Log Problem (ECDLP)**. By
 
 - [Elliptic Curves - Computerphile [8:41]](https://www.youtube.com/watch?v=NF1pwjL9-DE)
 - [A (relatively easy to understand) primer on elliptic curve cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
+- [Elliptic Curves In-Depth](https://arkana.blog/en/reading-lists/elliptic-curves-in-depth/)
 
 **Elliptic Curve Digital Signature Algorithm (ECDSA)** extends the traditional Digital Signature Algorithm (DSA) by incorporating elliptic curves as well, enabling stronger security with shorter key lengths. This makes the algorithm more efficient and suitable for constrained environments. ECDSA is widely used in various secure communication protocols, including SSL/TLS.
 
