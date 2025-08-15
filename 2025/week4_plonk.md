@@ -1,4 +1,4 @@
-# Week 3 - PLONK
+# Week 4 - PLONK
 
 
 Recall that you should have some basic knowledge of Rust from completing [Rustlings](https://rustlings.cool/) in Week 0. The required exercise this week is to publish a blogpost on PLONK and present it at the end of the week with your group.
