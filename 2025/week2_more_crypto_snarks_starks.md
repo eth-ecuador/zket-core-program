@@ -1,4 +1,4 @@
-# Week 3 - More Crypto, SNARKs, and STARKs
+# Week 2 - More Crypto, SNARKs, and STARKs
 
 ## Practical
 ### Circom
