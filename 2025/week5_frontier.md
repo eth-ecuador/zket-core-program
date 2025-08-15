@@ -1,4 +1,4 @@
-# Week 5 & 6 - Frontier Technologies
+# Week 5 - Frontier Technologies
 
 In this final week of the curriculum, we are going to take a more self-exploratory approach to some exciting topics and tools at the forefront of programmable cryptography. This will give you the flexibility to continue exploring PLONK if you need the extra time, but also new areas of exploration which may interest you.
 
