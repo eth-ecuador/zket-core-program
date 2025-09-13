@@ -47,8 +47,6 @@ We've designed several tracks to inspire your creativity. Here are some ideas to
 
 - **Anonymous Savings Pools ("Cajas de Ahorro")**: Create a digital version of traditional community savings pools. Members can prove they've made their contributions without revealing their identity or total savings, enhancing trust and security.
 
-- **ZK-Powered Remittances**: Develop a solution that reduces the high costs and increases the privacy of remittances sent home by the millions of Ecuadorians living abroad.
-
 ### Track 2: Digital Identity & Reputation 🛡️
 
 **The Challenge**: Ecuador has faced significant challenges with the security and privacy of its digital identity system, leading to data breaches and a lack of public trust. How can we empower citizens with more control over their personal data?
