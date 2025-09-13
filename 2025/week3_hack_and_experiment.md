@@ -84,23 +84,16 @@ We've designed several tracks to inspire your creativity. Here are some ideas to
 To help you get started, we've compiled a list of beginner-friendly ZK toolkits and resources. We encourage you to explore their documentation and tutorials.
 
 **Noir**: A Rust-based language for creating and verifying zero-knowledge proofs. It's designed to be developer-friendly and is a great starting point for ZK development.
-- Noir Documentation
-- Awesome Noir
+- [Noir Documentation](https://noir-lang.org/docs)
+- [Awesome Noir](https://github.com/noir-lang/awesome-noir)
 
 **Circom & SnarkJS**: The most widely used language for writing ZK circuits. It has a large community and a rich ecosystem of tools.
-- Circom Documentation
-- SnarkJS Tutorial
+- [Circom Documentation](https://docs.circom.io/)
+- [SnarkJS](https://github.com/iden3/snarkjs)
 
 **zk-kit**: A set of libraries and utilities for building ZK applications, including semaphore for anonymous signaling.
-- zk-kit Documentation
-- Semaphore Tutorial
-
-**Hardhat & Circom-Tester**: A powerful combination for testing your ZK circuits in a familiar development environment.
-- Hardhat-Circom Plugin
-- Circom-Tester Tutorial
-
-**zkp-app-boilerplate**: A ready-to-use boilerplate for building ZK applications with Circom, SnarkJS, and Hardhat.
-- Boilerplate on GitHub
+- [zk-kit Documentation](https://zkkit.org/)
+- [Semaphore Documentation](https://docs.semaphore.pse.dev/guides/proofs)
 
 ---
 
