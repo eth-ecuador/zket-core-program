@@ -1,8 +1,8 @@
-Project Name
+## Project Name
 
-ZK Access Badges – Anonymous Identity Verification System
+# ZK Access Badges – Anonymous Identity Verification System
 
-Project Description
+# Project Description
 
 ZK Access Badges is a Zero-Knowledge proof system that enables anonymous verification of group membership for discriminated communities — such as LGBTI+ people, individuals with disabilities, and ethnic minorities — while preserving complete privacy.
 
@@ -11,7 +11,7 @@ The project introduces Soul Bound Tokens (SBTs) that act as anonymous identity b
 Impact for the ecosystem/society:
 By combining privacy-preserving cryptography and blockchain-based credentials, this project empowers marginalized groups with a secure, anonymous digital identity. It demonstrates how Zero-Knowledge proofs can enable inclusive, censorship-resistant identity systems in Web3.
 
-👥 Team Information
+## 👥 Team Information
 
 Project Members
 
@@ -23,12 +23,11 @@ Role: Fullstack Developer / ZK Engineer
 Name: Anthony Benavides
 Github Username: @anthonybenavides
 
-
 Role: Frontend Developer / Smart Contract Integration
 
 ⚙️ Technical Approach
 
-Components (selected):
+## Components (selected):
 
 ✅ Frontend
 
@@ -38,9 +37,9 @@ Components (selected):
 
 ✅ ZK Circuits
 
-High-level overview:
+## High-level overview:
 
-The system consists of four main modules:
+## The system consists of four main modules:
 
 Frontend (Next.js) – Provides UI for anonymous badge generation.
 
@@ -52,7 +51,7 @@ ZK Circuits (Circom + snarkjs) – Implements Zero-Knowledge verification of ide
 
 The frontend generates the proof locally on the user’s device, while the backend and blockchain verify the proof and issue the corresponding non-transferable SBT.
 
-Tech Stack
+## Tech Stack
 
 Frontend: Next.js, TypeScript, Tailwind CSS, Radix UI, Lucide React
 
@@ -64,14 +63,14 @@ Blockchain: Solidity, Hardhat, OpenZeppelin
 
 Development Tools: Git, npm, Local Ethereum Network
 
-🚀 Goals & Future Plans
+## 🚀 Goals & Future Plans
 
 What we’ve achieved:
 ✅ Functional prototype capable of generating and verifying anonymous badges
 ✅ Integration between frontend, backend, and smart contracts
 ✅ Circuits and proof generation using Circom + snarkjs
 
-Next Steps:
+## Next Steps:
 
 Integrate wallet-based authentication (e.g., Sign-In with Ethereum)
 
@@ -89,7 +88,7 @@ Guidance for deployment on privacy-oriented chains (e.g., Aztec, zkSync)
 
 Support with grant or accelerator programs for further development
 
-💡 Lessons Learned
+## 💡 Lessons Learned
 
 Building ZK systems requires careful synchronization between circuits and contract verification keys.
 
@@ -99,7 +98,7 @@ Poseidon Hash and Groth16 proved reliable for simple identity commitments.
 
 Zero-Knowledge concepts are powerful for privacy-preserving identity, but developer tooling still needs to mature.
 
-🔗 Project Links
+## 🔗 Project Links
 
 GitHub Repository: https://github.com/Erika05cristina/ZK-Access-Badges-Hackaton
 
