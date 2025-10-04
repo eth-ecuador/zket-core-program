@@ -1,6 +1,6 @@
 # ZKVote
 
-Enter the name of your project above and provide a brief description of your project including what is the impact for the ecosystem or society.
+ZKVote is an anonymous voting system, divided in two parts: SERVER, that manages the issue and available options, and CLIENT that votes using IDs to check it's identity.
 
 ## Team Information
 
