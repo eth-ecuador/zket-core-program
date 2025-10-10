@@ -93,15 +93,15 @@ The system consists of three main components working together:
 Visual demonstration of medicProof workflow through screenshots:
 
 ### Generate Proof Interface
-![Generate Proof](backend-laravel/storage/examples/Screenshot%202025-10-08%20at%2017.48.02.png)
+![Generate Proof](https://github.com/juanitourquiza/medicProof/raw/main/backend-laravel/storage/examples/Screenshot%202025-10-08%20at%2017.48.02.png)
 
 ### Proof Generated Successfully
-![Proof Generated](backend-laravel/storage/examples/Screenshot%202025-10-08%20at%2017.49.49.png)
+![Proof Generated](https://github.com/juanitourquiza/medicProof/raw/main/backend-laravel/storage/examples/Screenshot%202025-10-08%20at%2017.49.49.png)
 
 ### Verify Proof Interface
-![Verify Proof](backend-laravel/storage/examples/Screenshot%202025-10-08%20at%2017.50.05.png)
+![Verify Proof](https://github.com/juanitourquiza/medicProof/raw/main/backend-laravel/storage/examples/Screenshot%202025-10-08%20at%2017.50.05.png)
 
 ### Proof Verified Successfully
-![Verification Success](backend-laravel/storage/examples/Screenshot%202025-10-08%20at%2017.50.36.png)
+![Verification Success](https://github.com/juanitourquiza/medicProof/raw/main/backend-laravel/storage/examples/Screenshot%202025-10-08%20at%2017.50.36.png)
 
 **Note**: The complete workflow demonstrates: XML upload → proof generation → QR code sharing → proof verification, all while maintaining privacy of sensitive data.
